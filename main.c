@@ -5,7 +5,7 @@
 
 int main()
 {	
-	int a,b,c,m,i,j,k=0,l;
+	int a,b,c,m,i,h,k=0,l;
 	printf("MAXIMUM Memory your RAM can hold while running: ");
 	scanf("%d", &total);
 	freeptr = NULL;
